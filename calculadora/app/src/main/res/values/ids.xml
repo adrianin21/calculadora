@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNro1" type="id">etNro1</item>
+    <item name="etNro2" type="id">etNro2</item>
+    <item name="etResultado" type="id">etResultado</item>
+    <item name="btnSumar" type="id">btnSumar</item>
+    <item name="btnRestar" type="id">btnRestar</item>
+</resources>
